@@ -36,7 +36,7 @@ Admins will seek to resolve conflicts peacefully and in a manner that is positiv
 
 The admins of Game-DevOps as of December 3, 2021:
 
-- @guy.kisel (Guy Kisel)
+- @Guy Kisel (Guy Kisel)
 - @Shi Chen (Shi Chen)
 
 ---
