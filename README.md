@@ -39,6 +39,8 @@ The admins of Game-DevOps as of December 3, 2021:
 - @Guy Kisel (Guy Kisel)
 - @Shi Chen (Shi Chen)
 
+You can also join the #admin-assist channel to reach admins.
+
 ---
 
 Thanks to [HangOps Slack](https://signup.hangops.com/) for creating and sharing the [Code of Conduct](https://github.com/hangops/code-of-conduct) on which this one is based. If you question the need for a Code of Conduct, please see [this](http://indiewebcamp.com/code-of-conduct-why).
